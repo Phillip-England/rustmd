@@ -1,0 +1,10 @@
+[package]
+name = "rustmd"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Phillip England <phillip.mark.england@gmail.com>"]
+description = "A flexible markdown parser written in Rust. Easy to use and easy to extend."
+
+
+[dependencies]
